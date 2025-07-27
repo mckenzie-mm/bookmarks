@@ -3,12 +3,29 @@
 ## art | photos | design | youtube | tutorial | Life
 
 
+🌤️ Weather:
+
+▸ https://www.weatherzone.com.au/nsw/sydney/sydney
+
+💳 Banking:
+
+▸ https://www.hsbc.co.uk/
+
+▸ https://www.westpac.com.au/personal-banking/online-banking/
+
+🚀 AWS:
+
+▸ https://aws.amazon.com/
 
 📚 Free Books:
 
 ▸ https://epdf.pub/en/
 
 ▸ https://mirageswar.com/
+
+🌐 Social Media:
+
+▸ https://www.instagram.com/mmckenzie.syd/
 
 🎨 Art:
 
@@ -66,7 +83,6 @@ https://dev.to/nafarya/aws-communication-between-multiple-containers-on-single-e
 
 https://nextjs.org/learn
 
-
 ⚛️ Reactjs:
 
 ▸ https://react.dev/learn
@@ -74,8 +90,6 @@ https://nextjs.org/learn
 🛢️SQLite:
 
 ▸ https://www.sqlitetutorial.net/sqlite-csharp/
-
-
 
 ▶️ Youtube:
 
