@@ -1,6 +1,6 @@
 # Bookmarks
 
-## art | photos | design
+## art | photos | design | tutorial
 
 🎨 Art:
 
