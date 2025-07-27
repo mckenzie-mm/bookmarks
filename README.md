@@ -1,6 +1,14 @@
 # Bookmarks
 
-## art | photos | design | youtube | tutorial
+## art | photos | design | youtube | tutorial | Life
+
+
+
+📚 Free Books:
+
+▸ https://epdf.pub/en/
+
+▸ https://mirageswar.com/
 
 🎨 Art:
 
@@ -61,6 +69,7 @@ https://nextjs.org/learn
 
 ⚛️ Reactjs:
 
+▸ https://react.dev/learn
 
 🛢️SQLite:
 
