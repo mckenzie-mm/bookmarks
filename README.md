@@ -2,6 +2,9 @@
 
 ## art | photos | design | youtube | tutorial | Life
 
+C# List of Tutorials:
+
+▸ https://www.youtube.com/watch?v=67oWw9TanOk&list=PL82C6-O4XrHfoN_Y4MwGvJz5BntiL0z0D
 
 🌤️ Weather:
 
