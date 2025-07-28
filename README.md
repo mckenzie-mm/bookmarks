@@ -2,31 +2,42 @@
 
 ## art | photos | design | youtube | tutorial | Life
 
-C# List of Tutorials:
+### w3 School:
+
+React:
+https://www.w3schools.com/react/default.asp
+
+C#:
+https://www.w3schools.com/cs/index.php
+
+Node.js:
+https://www.w3schools.com/nodejs/
+
+### C# List of Tutorials:
 
 ▸ https://www.youtube.com/watch?v=67oWw9TanOk&list=PL82C6-O4XrHfoN_Y4MwGvJz5BntiL0z0D
 
-🌤️ Weather:
+### 🌤️ Weather:
 
 ▸ https://www.weatherzone.com.au/nsw/sydney/sydney
 
-💳 Banking:
+### 💳 Banking:
 
 ▸ https://www.hsbc.co.uk/
 
 ▸ https://www.westpac.com.au/personal-banking/online-banking/
 
-🚀 AWS:
+### 🚀 AWS:
 
 ▸ https://aws.amazon.com/
 
-📚 Free Books:
+### 📚 Free Books:
 
 ▸ https://epdf.pub/en/
 
 ▸ https://mirageswar.com/
 
-🎨 Art:
+### 🎨 Art:
 
 ▸ https://dribbble.com/stay_heavy
 
@@ -34,7 +45,7 @@ C# List of Tutorials:
 
 ▸ https://micheleclamp.com/
 
-📷 Photos:
+### 📷 Photos:
 
 ▸ https://www.dreamstime.com/soupstudio_info
 
@@ -44,7 +55,7 @@ C# List of Tutorials:
 
 ▸ https://www.istockphoto.com/portfolio/tanniroy
 
-📝 Design:
+### 📝 Design:
 
 ▸ https://elements.envato.com/graphic-templates/websites
 
@@ -60,7 +71,7 @@ C# List of Tutorials:
 
 ▸ https://font.download/
 
-#️⃣ .NET:
+### #️⃣ .NET:
 
 controller example:
 
@@ -78,19 +89,19 @@ communication between containers:
 
 https://dev.to/nafarya/aws-communication-between-multiple-containers-on-single-ec2-instance-3clj
 
-🇳 Nextjs:
+### 🇳 Nextjs:
 
 https://nextjs.org/learn
 
-⚛️ Reactjs:
+### ⚛️ Reactjs:
 
 ▸ https://react.dev/learn
 
-🛢️SQLite:
+### 🛢️SQLite:
 
 ▸ https://www.sqlitetutorial.net/sqlite-csharp/
 
-▶️ Youtube:
+### ▶️ Youtube:
 
 Tiny Tech Tutorials:
 
