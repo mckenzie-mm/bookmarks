@@ -26,10 +26,6 @@ C# List of Tutorials:
 
 ▸ https://mirageswar.com/
 
-🌐 Social Media:
-
-▸ https://www.instagram.com/mmckenzie.syd/
-
 🎨 Art:
 
 ▸ https://dribbble.com/stay_heavy
