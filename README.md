@@ -2,6 +2,10 @@
 
 ## art | photos | design | youtube | tutorial | Life
 
+#### gRPC:
+
+https://www.youtube.com/watch?app=desktop&v=gnchfOojMk4
+
 #### w3 School:
 
 React:
