@@ -4,6 +4,8 @@
 
 #### gRPC:
 
+https://grpc.io/docs/what-is-grpc/
+
 https://www.youtube.com/watch?app=desktop&v=gnchfOojMk4
 
 #### w3 School:
