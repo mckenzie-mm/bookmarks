@@ -5,6 +5,8 @@
 
 https://www.w3schools.com/nodejs/nodejs_microservices.asp
 
+https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
+
 #### gRPC:
 
 https://grpc.io/docs/what-is-grpc/
