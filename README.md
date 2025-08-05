@@ -1,6 +1,68 @@
 # Bookmarks
 
-## art | photos | design | youtube | tutorial | Life
+## Life
+
+#### 🌤️ Weather:
+
+▸ https://www.weatherzone.com.au/nsw/sydney/sydney
+
+#### 💳 Banking:
+
+▸ https://www.hsbc.co.uk/
+
+▸ https://www.westpac.com.au/personal-banking/online-banking/
+
+#### 🚀 AWS:
+
+▸ https://aws.amazon.com/
+
+#### 📚 Free Books:
+
+▸ https://epdf.pub/en/
+
+▸ https://mirageswar.com/
+
+▸ https://ebin.pub/
+
+▸ https://archive.org/search
+
+## Non-Technical
+
+#### 🎨 Art:
+
+▸ https://dribbble.com/stay_heavy
+
+▸ https://www.behance.net/olkiller
+
+▸ https://micheleclamp.com/
+
+#### 📷 Photos:
+
+▸ https://www.dreamstime.com/soupstudio_info
+
+▸ https://www.dreamstime.com/egorr_info
+
+▸ https://www.dreamstime.com/alenkasm_info
+
+▸ https://www.istockphoto.com/portfolio/tanniroy
+
+#### 📝 Design:
+
+▸ https://elements.envato.com/graphic-templates/websites
+
+▸ https://www.wix.com/website/templates
+
+▸ https://www.photiu.ai/
+
+▸ https://www.freepik.com/ai/background-remover
+
+#### ✍ Free Fonts:
+
+▸ https://befonts.com/
+
+▸ https://font.download/
+
+## Technical
 
 #### RabbitMQ:
 
@@ -38,64 +100,6 @@ https://www.w3schools.com/nodejs/
 #### C# List of Tutorials:
 
 ▸ https://www.youtube.com/watch?v=67oWw9TanOk&list=PL82C6-O4XrHfoN_Y4MwGvJz5BntiL0z0D
-
-#### 🌤️ Weather:
-
-▸ https://www.weatherzone.com.au/nsw/sydney/sydney
-
-#### 💳 Banking:
-
-▸ https://www.hsbc.co.uk/
-
-▸ https://www.westpac.com.au/personal-banking/online-banking/
-
-#### 🚀 AWS:
-
-▸ https://aws.amazon.com/
-
-#### 📚 Free Books:
-
-▸ https://epdf.pub/en/
-
-▸ https://mirageswar.com/
-
-▸ https://ebin.pub/
-
-▸ https://archive.org/search
-
-#### 🎨 Art:
-
-▸ https://dribbble.com/stay_heavy
-
-▸ https://www.behance.net/olkiller
-
-▸ https://micheleclamp.com/
-
-#### 📷 Photos:
-
-▸ https://www.dreamstime.com/soupstudio_info
-
-▸ https://www.dreamstime.com/egorr_info
-
-▸ https://www.dreamstime.com/alenkasm_info
-
-▸ https://www.istockphoto.com/portfolio/tanniroy
-
-#### 📝 Design:
-
-▸ https://elements.envato.com/graphic-templates/websites
-
-▸ https://www.wix.com/website/templates
-
-▸ https://www.photiu.ai/
-
-▸ https://www.freepik.com/ai/background-remover
-
-#### ✍ Free Fonts:
-
-▸ https://befonts.com/
-
-▸ https://font.download/
 
 #### #️⃣ .NET:
 
