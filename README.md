@@ -6,6 +6,8 @@
 
 ▸ https://www.weatherzone.com.au/nsw/sydney/sydney
 
+▸ https://www.arpansa.gov.au/our-services/monitoring/ultraviolet-radiation-monitoring/ultraviolet-radiation-index
+
 #### 💳 Banking:
 
 ▸ https://www.hsbc.co.uk/
