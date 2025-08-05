@@ -26,13 +26,13 @@ https://www.youtube.com/watch?app=desktop&v=gnchfOojMk4
 
 #### w3 School:
 
-React:
+##### React:
 https://www.w3schools.com/react/default.asp
 
-C#:
+##### C#:
 https://www.w3schools.com/cs/index.php
 
-Node.js:
+##### Node.js:
 https://www.w3schools.com/nodejs/
 
 #### C# List of Tutorials:
@@ -97,19 +97,19 @@ https://www.w3schools.com/nodejs/
 
 #### #️⃣ .NET:
 
-controller example:
+##### controller example:
 
 ▸ https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
 
-env variables:
+##### env variables:
 
 ▸ https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-9.0
 
-docker file:
+##### docker file:
 
 ▸ https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-9.0
 
-communication between containers:
+##### communication between containers:
 
 https://dev.to/nafarya/aws-communication-between-multiple-containers-on-single-ec2-instance-3clj
 
@@ -127,46 +127,46 @@ https://nextjs.org/learn
 
 #### ▶️ Youtube:
 
-Tiny Tech Tutorials:
+##### Tiny Tech Tutorials:
 
 ▸ https://www.youtube.com/@TinyTechnicalTutorials
 
-Sam Meech Ward:
+##### Sam Meech Ward:
 
 ▸ https://www.youtube.com/@SamMeechWard
 
-Teddy Smith:
+##### Teddy Smith:
 
 ▸ https://www.youtube.com/channel/UCCqmbn5-z_t15tYbUreWcNA
 
-Kevin Powell:
+##### Kevin Powell:
 
 ▸ https://www.youtube.com/@KevinPowell
 
-Marcel Dempers (Dev Ops):
+##### Marcel Dempers (Dev Ops):
 
 ▸ https://www.youtube.com/@MarcelDempers
 
 ▸ https://www.youtube.com/playlist?list=PLHq1uqvAteVuOCnB0QUrf2BJ_jbMeYZ4l
 
-Amichai Mantinband:
+##### Amichai Mantinband:
 
 ▸ https://www.youtube.com/watch?v=Ounk4W_ttiE
 
 ▸ https://www.youtube.com/watch?v=Ms0dFXx3OMc
 
-C# Extension Methods:
+##### C# Extension Methods:
 
 ▸ https://www.youtube.com/watch?v=iI9sfsMIZE8
 
-Steve Griffith:
+##### Steve Griffith:
 
 ▸ https://gist.github.com/prof3ssorSt3v3/3e15d06a8128d6ca7deaa831a7a1e52b
 
-Auth0 with C#:
+##### Auth0 with C#:
 
 ▸ https://www.youtube.com/watch?v=MloK2Kpi1Ok
 
-Auth0 with JavaScript/NodeJS:
+##### Auth0 with JavaScript/NodeJS:
 
 ▸ https://www.youtube.com/watch?v=YLYKXfQPlI4
