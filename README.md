@@ -4,9 +4,13 @@
 
 #### RabbitMQ:
 
-publish/subscribe - how it works
+##### publish/subscribe - how it works
 
 https://codemia.io/knowledge-hub/path/rabbitmq_in_pubsub_is_the_consumer_polling_the_queue_for_new_messages_or_does_the_server_push_messages
+
+##### using Node.js
+
+https://www.youtube.com/watch?v=igaVS0S1hA4
 
 #### Node.js Microservice:
 
