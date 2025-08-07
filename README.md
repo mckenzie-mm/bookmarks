@@ -32,6 +32,8 @@
 
 ▸ https://www.warp.dev/terminus/linux-check-folder-size
 
+▸ https://runcloud.io/blog/check-disk-space-in-linux
+
 ## Non-Technical
 
 #### 🎨 Art:
