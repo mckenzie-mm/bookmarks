@@ -28,6 +28,10 @@
 
 ▸ https://archive.org/search
 
+#### Check Disk Size Space:
+
+▸ https://www.warp.dev/terminus/linux-check-folder-size
+
 ## Non-Technical
 
 #### 🎨 Art:
