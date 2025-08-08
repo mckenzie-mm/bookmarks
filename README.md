@@ -28,6 +28,16 @@
 
 ▸ https://archive.org/search
 
+#### Java Spring Boot:
+
+▸ https://www.youtube.com/watch?v=gJrjgg1KVL4
+
+▸ https://www.youtube.com/watch?v=9SGDpanrc8U
+
+▸ https://www.youtube.com/watch?v=Cw0J6jYJtzw
+
+▸ https://www.youtube.com/watch?v=msXL2oDexqw
+
 #### Check Disk Size Space:
 
 ▸ https://www.warp.dev/terminus/linux-check-folder-size
