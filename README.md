@@ -75,6 +75,16 @@
 
 ▸ https://developers.google.com/machine-learning/resources/intro-llms
 
+#### Java
+
+##### w3 Java:
+
+https://www.w3schools.com/java/default.asp
+
+##### Annotations:
+
+▸ https://www.w3schools.com/java/java_annotations.asp
+
 #### Java Spring Boot:
 
 ##### Spring Initializr
