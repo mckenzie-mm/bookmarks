@@ -77,11 +77,21 @@
 
 #### Java Spring Boot:
 
+##### Programming with Mosh
+
 ▸ https://www.youtube.com/watch?v=gJrjgg1KVL4
+
+##### amigoscode
+
+2023
 
 ▸ https://www.youtube.com/watch?v=9SGDpanrc8U
 
+2025
+
 ▸ https://www.youtube.com/watch?v=Cw0J6jYJtzw
+
+##### Jet Brains
 
 ▸ https://www.youtube.com/watch?v=msXL2oDexqw
 
