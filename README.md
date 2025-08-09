@@ -83,13 +83,9 @@
 
 ##### amigoscode
 
-2023
+(2023) ▸ https://www.youtube.com/watch?v=9SGDpanrc8U
 
-▸ https://www.youtube.com/watch?v=9SGDpanrc8U
-
-2025
-
-▸ https://www.youtube.com/watch?v=Cw0J6jYJtzw
+(2025) ▸ https://www.youtube.com/watch?v=Cw0J6jYJtzw
 
 ##### Jet Brains
 
