@@ -121,14 +121,11 @@ https://www.youtube.com/watch?app=desktop&v=gnchfOojMk4
 
 #### w3 School:
 
-React:
-https://www.w3schools.com/react/default.asp
+(React) https://www.w3schools.com/react/default.asp
 
-C#:
-https://www.w3schools.com/cs/index.php
+(C#) https://www.w3schools.com/cs/index.php
 
-Node.js:
-https://www.w3schools.com/nodejs/
+(Node.js) https://www.w3schools.com/nodejs/
 
 #### C# List of Tutorials:
 
