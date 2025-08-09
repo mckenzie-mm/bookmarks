@@ -65,6 +65,10 @@
 
 ▸ https://font.download/
 
+#### Website Design:
+
+▸ https://zenluxe.jp/en/
+
 ## Technical
 
 #### AI - LLM (Large Language Models):
