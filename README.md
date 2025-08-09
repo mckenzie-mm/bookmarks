@@ -28,6 +28,12 @@
 
 ▸ https://archive.org/search
 
+#### AI - LLM (Large Language Models):
+
+▸ https://www.youtube.com/watch?v=u4LMdo-2EP4
+
+▸ https://developers.google.com/machine-learning/resources/intro-llms
+
 #### Java Spring Boot:
 
 ▸ https://www.youtube.com/watch?v=gJrjgg1KVL4
