@@ -101,31 +101,31 @@
 
 ##### publish/subscribe - how it works
 
-https://codemia.io/knowledge-hub/path/rabbitmq_in_pubsub_is_the_consumer_polling_the_queue_for_new_messages_or_does_the_server_push_messages
+▸ https://codemia.io/knowledge-hub/path/rabbitmq_in_pubsub_is_the_consumer_polling_the_queue_for_new_messages_or_does_the_server_push_messages
 
 ##### using Node.js
 
-https://www.youtube.com/watch?v=igaVS0S1hA4
+▸ https://www.youtube.com/watch?v=igaVS0S1hA4
 
 #### Node.js Microservice:
 
-https://www.w3schools.com/nodejs/nodejs_microservices.asp
+▸ https://www.w3schools.com/nodejs/nodejs_microservices.asp
 
-https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
+▸ https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f
 
 #### gRPC:
 
-https://grpc.io/docs/what-is-grpc/
+▸ https://grpc.io/docs/what-is-grpc/
 
-https://www.youtube.com/watch?app=desktop&v=gnchfOojMk4
+▸ https://www.youtube.com/watch?app=desktop&v=gnchfOojMk4
 
 #### w3 School:
 
-(React) https://www.w3schools.com/react/default.asp
+(React) ▸ https://www.w3schools.com/react/default.asp
 
-(C#) https://www.w3schools.com/cs/index.php
+(C#) ▸ https://www.w3schools.com/cs/index.php
 
-(Node.js) https://www.w3schools.com/nodejs/
+(Node.js) ▸ https://www.w3schools.com/nodejs/
 
 #### C# List of Tutorials:
 
@@ -133,21 +133,13 @@ https://www.youtube.com/watch?app=desktop&v=gnchfOojMk4
 
 #### #️⃣ .NET:
 
-controller example:
+(controller) ▸ https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
 
-▸ https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
+(env variables) ▸ https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-9.0
 
-env variables:
+(docker file) ▸ https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-9.0
 
-▸ https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-9.0
-
-docker file:
-
-▸ https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-9.0
-
-communication between containers:
-
-https://dev.to/nafarya/aws-communication-between-multiple-containers-on-single-ec2-instance-3clj
+(communication between containers) ▸ https://dev.to/nafarya/aws-communication-between-multiple-containers-on-single-ec2-instance-3clj
 
 #### 🇳 Nextjs:
 
