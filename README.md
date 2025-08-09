@@ -79,7 +79,9 @@
 
 ##### Spring Initializr
 
-https://start.spring.io/
+To create a Spring Boot project, select pacakages and download using Spring Initializr website
+
+▸ https://start.spring.io/
 
 ##### Programming with Mosh
 
