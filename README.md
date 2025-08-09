@@ -65,12 +65,6 @@
 
 ▸ https://font.download/
 
-#### Website Design:
-
-▸ https://store.nytimes.com/
-
-▸ https://zenluxe.jp/en/
-
 ## Technical
 
 #### AI - LLM (Large Language Models):
