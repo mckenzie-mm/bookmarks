@@ -28,29 +28,6 @@
 
 ▸ https://archive.org/search
 
-#### AI - LLM (Large Language Models):
-
-▸ https://www.geeksforgeeks.org/artificial-intelligence/large-language-model-llm/
-
-▸ https://www.youtube.com/watch?v=u4LMdo-2EP4
-
-▸ https://developers.google.com/machine-learning/resources/intro-llms
-
-#### Java Spring Boot:
-
-▸ https://www.youtube.com/watch?v=gJrjgg1KVL4
-
-▸ https://www.youtube.com/watch?v=9SGDpanrc8U
-
-▸ https://www.youtube.com/watch?v=Cw0J6jYJtzw
-
-▸ https://www.youtube.com/watch?v=msXL2oDexqw
-
-#### Check Disk Size Space:
-
-▸ https://www.warp.dev/terminus/linux-check-folder-size
-
-▸ https://runcloud.io/blog/check-disk-space-in-linux
 
 ## Non-Technical
 
@@ -89,6 +66,30 @@
 ▸ https://font.download/
 
 ## Technical
+
+#### AI - LLM (Large Language Models):
+
+▸ https://www.geeksforgeeks.org/artificial-intelligence/large-language-model-llm/
+
+▸ https://www.youtube.com/watch?v=u4LMdo-2EP4
+
+▸ https://developers.google.com/machine-learning/resources/intro-llms
+
+#### Java Spring Boot:
+
+▸ https://www.youtube.com/watch?v=gJrjgg1KVL4
+
+▸ https://www.youtube.com/watch?v=9SGDpanrc8U
+
+▸ https://www.youtube.com/watch?v=Cw0J6jYJtzw
+
+▸ https://www.youtube.com/watch?v=msXL2oDexqw
+
+#### Check Disk Size Space:
+
+▸ https://www.warp.dev/terminus/linux-check-folder-size
+
+▸ https://runcloud.io/blog/check-disk-space-in-linux
 
 #### RabbitMQ:
 
