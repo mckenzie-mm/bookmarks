@@ -69,6 +69,8 @@
 
 #### AI - LLM (Large Language Models):
 
+▸ https://www.youtube.com/watch?v=9Ge0sMm65jo
+
 ▸ https://www.geeksforgeeks.org/artificial-intelligence/large-language-model-llm/
 
 ▸ https://www.youtube.com/watch?v=u4LMdo-2EP4
