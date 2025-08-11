@@ -75,6 +75,10 @@
 
 (CodeEmporium) ▸ https://www.youtube.com/watch?v=TQQlZhbC5ps
 
+##### Recurrent Neural Network:
+
+(Statquest) ▸ https://www.youtube.com/watch?v=AsNTP8Kwu80
+
 ##### free Code Camp (Imad Saddik):
 
 ▸ https://www.youtube.com/watch?v=9Ge0sMm65jo
