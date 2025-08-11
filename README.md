@@ -71,6 +71,8 @@
 
 ##### Transformer Neural Network:
 
+https://www.youtube.com/watch?v=SZorAJ4I-sA
+
 (Statquest) ▸ https://www.youtube.com/watch?v=zxQyTK8quyY
 
 (CodeEmporium) ▸ https://www.youtube.com/watch?v=TQQlZhbC5ps
