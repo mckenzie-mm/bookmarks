@@ -69,9 +69,11 @@
 
 #### AI - LLM (Large Language Models):
 
-##### Transformer Neural Network (Statquest):
+##### Transformer Neural Network:
 
-▸ https://www.youtube.com/watch?v=zxQyTK8quyY
+(Statquest) ▸ https://www.youtube.com/watch?v=zxQyTK8quyY
+
+(CodeEmporium) ▸ https://www.youtube.com/watch?v=TQQlZhbC5ps
 
 ##### free Code Camp (Imad Saddik):
 
