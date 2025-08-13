@@ -93,6 +93,10 @@ https://www.youtube.com/watch?v=SZorAJ4I-sA
 
 ▸ https://developers.google.com/machine-learning/resources/intro-llms
 
+#### Vuejs
+
+(Codewithguillaume) ▸ https://www.youtube.com/watch?v=0NB9lgFcOT4
+
 #### Java
 
 ##### w3 Java:
