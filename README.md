@@ -95,7 +95,9 @@ https://www.youtube.com/watch?v=SZorAJ4I-sA
 
 #### Vuejs
 
-(Codewithguillaume) ▸ https://www.youtube.com/watch?v=0NB9lgFcOT4
+Codewithguillaume:
+
+▸ https://www.youtube.com/watch?v=0NB9lgFcOT4
 
 #### Java
 
