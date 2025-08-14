@@ -111,6 +111,12 @@ https://www.w3schools.com/java/default.asp
 
 #### Java Spring Boot:
 
+##### Dependency Injection with @Bean
+
+▸ https://docs.spring.io/spring-framework/reference/core/beans/java/bean-annotation.html
+
+▸ https://docs.spring.io/spring-framework/reference/core/beans/java/basic-concepts.html
+
 ##### Spring Initializr
 
 To create a Spring Boot project, select pacakages and download using Spring Initializr website
