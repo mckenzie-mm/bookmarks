@@ -30,6 +30,8 @@
 
 #### Building/Architecture:
 
+▸ https://www.youtube.com/watch?v=w8sL27Tl88I&list=PL8XEQ1XKYNDU28EZTqiP_qMo3kriBsnMk
+
 ▸ https://www.youtube.com/watch?v=xofiH1CpPT0
 
 ▸ https://www.finehomebuilding.com/2023/08/04/framing-a-second-story-on-an-existing-house
