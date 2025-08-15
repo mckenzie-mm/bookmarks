@@ -30,11 +30,13 @@
 
 #### Building/Architecture:
 
-▸ https://www.finehomebuilding.com/2008/11/12/designing-stairs-for-an-addition
+▸ https://www.youtube.com/watch?v=xofiH1CpPT0
 
 ▸ https://www.finehomebuilding.com/2023/08/04/framing-a-second-story-on-an-existing-house
 
 ##### Studio Plans:
+
+▸ https://www.finehomebuilding.com/2008/11/12/designing-stairs-for-an-addition
 
 ▸ https://www.thehousedesigners.com/plan/the-abby-park-6592/
 
