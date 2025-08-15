@@ -48,6 +48,8 @@
 
 ▸ https://www.perfectlittlehouse.com/designs/maple.php
 
+▸ https://libertyhouseplans.com/products/kingston-carriage-house
+
 ## Non-Technical
 
 #### 🎨 Art:
