@@ -30,6 +30,12 @@
 
 #### Building/Architecture:
 
+##### Framing:
+
+▸ https://www.youtube.com/watch?v=pqhyYFtCjMw
+
+▸ https://www.youtube.com/watch?v=xofiH1CpPT0
+
 ##### Stairs:
 
 ▸ https://www.finehomebuilding.com/2008/11/12/designing-stairs-for-an-addition
