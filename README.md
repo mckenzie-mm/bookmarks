@@ -36,9 +36,9 @@
 
 ##### Studio Plans:
 
-https://libertyhouseplans.com/products/cassia-carriage-house
+▸ https://libertyhouseplans.com/products/cassia-carriage-house
 
-https://www.thehousedesigners.com/plan/the-abby-park-6592/#floor-plan-1
+▸ https://www.thehousedesigners.com/plan/the-abby-park-6592/#floor-plan-1
 
 ##### Small House Plans:
 
