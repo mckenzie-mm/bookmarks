@@ -28,6 +28,12 @@
 
 ▸ https://archive.org/search
 
+#### Building:
+
+▸ https://www.finehomebuilding.com/2008/11/12/designing-stairs-for-an-addition
+
+▸ https://www.finehomebuilding.com/2023/08/04/framing-a-second-story-on-an-existing-house
+
 
 ## Non-Technical
 
