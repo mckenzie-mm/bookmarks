@@ -28,8 +28,25 @@
 
 ▸ https://archive.org/search
 
+#### Building/Architecture:
 
+##### Stairs:
 
+▸ https://www.finehomebuilding.com/2008/11/12/designing-stairs-for-an-addition
+
+##### Studio Plans:
+
+https://libertyhouseplans.com/products/cassia-carriage-house
+
+https://www.thehousedesigners.com/plan/the-abby-park-6592/#floor-plan-1
+
+##### Small House Plans:
+
+▸ https://www.etsy.com/au/listing/1784665711/23-x-33-modern-adu-2-car-garage-w
+
+▸ https://www.bcandj.com/project/back-bay-house/
+
+▸ https://www.perfectlittlehouse.com/designs/maple.php
 
 ## Non-Technical
 
