@@ -28,11 +28,43 @@
 
 ▸ https://archive.org/search
 
-#### Building:
+#### Building/Architecture:
 
 ▸ https://www.finehomebuilding.com/2008/11/12/designing-stairs-for-an-addition
 
 ▸ https://www.finehomebuilding.com/2023/08/04/framing-a-second-story-on-an-existing-house
+
+##### Studio Plans:
+
+▸ https://www.thehousedesigners.com/plan/the-abby-park-6592/
+
+▸ https://www.thehousedesigners.com/plan/greenlee-7210/
+
+▸ https://libertyhouseplans.com/products/cassia-carriage-house
+
+▸ https://www.choicegoodsmart.com/product-p-472153.html
+
+▸ https://www.theplancollection.com/house-plans/home-plan-31300
+
+▸ https://www.thegarageplanshop.com/plans/plan-034g-0025
+
+▸ https://www.thegarageplanshop.com/plans/plan-034g-0027
+
+▸ https://www.architecturaldesigns.com/house-plans/2-car-carriage-house-plan-with-second-floor-studio-apartment-575-sq-ft-520027rky
+
+▸ https://www.etsy.com/au/listing/1784665711/23-x-33-modern-adu-2-car-garage-w
+
+##### Small House Plans:
+
+▸ https://www.facebook.com/perfectlittlehouse/
+
+▸ https://www.bcandj.com/
+
+▸ https://www.bcandj.com/project/back-bay-house/
+
+▸ https://www.perfectlittlehouse.com/designs/maple.php
+
+▸ https://www.seattletimes.com/pacific-nw-magazine/bainbridge-couplersquos-perfect-little-house-truly-is/
 
 
 ## Non-Technical
