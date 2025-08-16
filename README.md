@@ -166,7 +166,7 @@ To create a Spring Boot project, select pacakages and download using Spring Init
 
 ##### Jet Brains
 
-▸ https://www.youtube.com/watch?v=msXL2oDexqw
+▸ https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
 
 #### Check Disk Size Space:
 
