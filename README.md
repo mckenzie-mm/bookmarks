@@ -158,6 +158,8 @@ To create a Spring Boot project, select pacakages and download using Spring Init
 
 ##### amigoscode
 
+▸ https://www.youtube.com/playlist?list=PLwvrYc43l1MzeA2bBYQhCWr2gvWLs9A7S
+
 ▸ https://www.youtube.com/watch?v=TE3LyYW-AHQ
 
 (2023) ▸ https://www.youtube.com/watch?v=9SGDpanrc8U
