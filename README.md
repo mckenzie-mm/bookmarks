@@ -138,9 +138,11 @@ https://www.w3schools.com/java/default.asp
 
 ▸ https://www.w3schools.com/java/java_annotations.asp
 
-#### Java Spring Boot:
+#### Java Spring & Spring Boot:
 
 ##### Dependency Injection with @Bean
+
+▸ https://www.youtube.com/watch?v=If1Lw4pLLEo
 
 ▸ https://docs.spring.io/spring-framework/reference/core/beans/java/bean-annotation.html
 
@@ -165,10 +167,6 @@ To create a Spring Boot project, select pacakages and download using Spring Init
 (2023) ▸ https://www.youtube.com/watch?v=9SGDpanrc8U
 
 (2025) ▸ https://www.youtube.com/watch?v=Cw0J6jYJtzw
-
-##### Jet Brains
-
-▸ https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
 
 #### Check Disk Size Space:
 
