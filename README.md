@@ -142,7 +142,7 @@ https://www.w3schools.com/java/default.asp
 
 ##### Dependency Injection with @Bean
 
-▸ https://www.youtube.com/watch?v=If1Lw4pLLEo
+▸ https://www.baeldung.com/spring-dependency-injection
 
 ▸ https://docs.spring.io/spring-framework/reference/core/beans/java/bean-annotation.html
 
