@@ -32,6 +32,8 @@
 
 ##### Framing:
 
+(windows) ▸ https://www.youtube.com/watch?v=TmJJfLlZgaQ
+
 ▸ https://www.youtube.com/watch?v=RA3X7YJKMBQ
 
 ▸ https://www.youtube.com/watch?v=pqhyYFtCjMw
