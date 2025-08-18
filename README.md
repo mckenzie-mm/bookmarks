@@ -28,6 +28,10 @@
 
 ▸ https://archive.org/search
 
+#### 📚 Amazon Kindle Books:
+
+▸ https://read.amazon.com.au/kindle-library
+
 #### Building/Architecture:
 
 ##### Framing:
