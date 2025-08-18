@@ -96,6 +96,12 @@
 
 ▸ https://font.download/
 
+####  🎨 Colours from Hex Codes:
+
+▸ https://encycolorpedia.com/
+
+▸ https://hextoral.com/
+
 ## Technical
 
 #### AI - LLM (Large Language Models):
