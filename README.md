@@ -102,10 +102,6 @@
 
 ▸ https://hextoral.com/
 
-#### Colour Charts (vehicles):
-
-▸ https://hdpaintcode.com/index.html
-
 ## Technical
 
 #### AI - LLM (Large Language Models):
