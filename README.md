@@ -42,7 +42,7 @@
 
 ▸ https://micheleclamp.com/
 
-#### 📷 Photos:
+#### 📷 Photos / Models:
 
 ▸ https://www.dreamstime.com/soupstudio_info
 
@@ -51,6 +51,8 @@
 ▸ https://www.dreamstime.com/alenkasm_info
 
 ▸ https://www.istockphoto.com/portfolio/tanniroy
+
+▸ https://www.instagram.com/bhumika_arora04/
 
 #### 📝 Design:
 
