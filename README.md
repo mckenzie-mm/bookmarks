@@ -134,6 +134,12 @@ To create a Spring Boot project, select pacakages and download using Spring Init
 
 ▸ https://start.spring.io/
 
+##### Maaike
+
+▸ https://www.youtube.com/@BrightBoost
+
+(dependency inject) ▸ https://www.youtube.com/watch?v=aS9SQITRocc
+
 ##### Programming with Mosh
 
 ▸ https://www.youtube.com/watch?v=gJrjgg1KVL4
