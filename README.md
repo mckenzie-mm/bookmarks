@@ -54,7 +54,7 @@
 
 ▸ https://www.instagram.com/bhumika_arora04/
 
-#### 👜 Ecommerce Websites:
+#### 🛍️ Ecommerce Websites:
 
 ▸ https://www.anthropologie.com/?ref=logo
 
