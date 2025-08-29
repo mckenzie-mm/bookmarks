@@ -52,7 +52,7 @@
 
 ▸ https://www.istockphoto.com/portfolio/tanniroy
 
-#### Photos to Art:
+#### 📷 > 🎨 Photos to Art:
 
 ▸ https://www.logoai.com/design/
 
