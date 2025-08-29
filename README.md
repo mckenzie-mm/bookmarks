@@ -52,6 +52,12 @@
 
 ▸ https://www.istockphoto.com/portfolio/tanniroy
 
+#### Photos to Art:
+
+▸ https://www.logoai.com/design/
+
+▸ https://www.logoai.com/design/flat-illustrative-style
+
 #### 📝 Design:
 
 ▸ https://elements.envato.com/graphic-templates/websites
