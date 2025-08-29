@@ -82,11 +82,15 @@
 
 ## Technical
 
+#### Vue VS React VS Angular
+
+▸ https://www.browserstack.com/guide/angular-vs-react-vs-vue
+
 #### AI - LLM (Large Language Models):
 
 ##### Transformer Neural Network:
 
-https://www.youtube.com/watch?v=SZorAJ4I-sA
+▸ https://www.youtube.com/watch?v=SZorAJ4I-sA
 
 (Statquest) ▸ https://www.youtube.com/watch?v=zxQyTK8quyY
 
